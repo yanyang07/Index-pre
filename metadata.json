@@ -1,0 +1,8 @@
+{
+  "name": "Index market: AI Academic Prediction Market",
+  "description": "A forward-looking academic platform where users predict scholar potential and technical trends using market mechanics, inspired by Polymarket.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
